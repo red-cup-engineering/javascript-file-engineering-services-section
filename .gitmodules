@@ -1,0 +1,8 @@
+[submodule "read-javascript-file-export-documentation-service"]
+	path = services/javascript-file-documentation-services-section/services/read-javascript-file-export-documentation-service
+	url = https://github.com/red-cup-engineering/read-javascript-file-export-documentation-service.git
+	branch = main
+[submodule "javascript-file-import-services-section"]
+	path = services/javascript-file-import-services-section
+	url = https://github.com/red-cup-engineering/javascript-file-import-services-section.git
+	branch = main
