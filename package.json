@@ -1,9 +1,9 @@
 {
-  "name": "@red-cup-engineering/javascript-file-services-section",
+  "name": "@red-cup-engineering/javascript-file-engineering-services-section",
   "version": "0.1.2",
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/red-cup-engineering/javascript-file-services-section.git"
+    "url": "git+https://github.com/red-cup-engineering/javascript-file-engineering-services-section.git"
   },
   "type": "module",
   "exports": {
