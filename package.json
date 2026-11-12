@@ -11,6 +11,7 @@
     "./read-javascript-file-main-guards": "./scripts/read-javascript-file-main-guards.mjs"
   },
   "dependencies": {
+    "@red-cup-engineering/javascript-parser-service": "^0.1.1",
     "@red-cup-engineering/computer-file-engineering-services-section": "0.4.0",
     "@red-cup-engineering/javascript-node-services-section": "0.3.2"
   },

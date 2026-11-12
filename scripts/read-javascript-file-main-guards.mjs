@@ -1,6 +1,6 @@
 #!/usr/bin/env node
 import { requireTextFileRead } from "@red-cup-engineering/computer-file-engineering-services-section/require-text-file-read";
-import { parseJavaScript, walkJavaScript } from "@red-cup-engineering/javascript-node-services-section/javascript-parser";
+import { parseJavaScript, walkJavaScript } from "@red-cup-engineering/javascript-parser-service";
 import { runJavascriptNodeOperation } from "@red-cup-engineering/javascript-node-services-section/operation";
 
 function isImportMetaMain(expression) {
