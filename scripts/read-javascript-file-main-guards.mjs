@@ -1,7 +1,7 @@
 #!/usr/bin/env node
 import { requireTextFileRead } from "@red-cup-engineering/computer-file-engineering-services-section/require-text-file-read";
 import { parseJavaScript, walkJavaScript } from "@red-cup-engineering/javascript-parser-service";
-import { runJavascriptNodeOperation } from "@red-cup-engineering/javascript-node-services-section/operation";
+import { runJavascriptNodeOperation } from "@red-cup-engineering/javascript-node-engineering-services-section/operation";
 
 function isImportMetaMain(expression) {
   return expression.type === "MemberExpression" && !expression.computed && expression.property.name === "main"
