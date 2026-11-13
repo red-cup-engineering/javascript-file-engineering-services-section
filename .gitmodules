@@ -1,4 +1,4 @@
-[submodule "services/javascript-file-import-services-section"]
-	path = services/javascript-file-import-services-section
+[submodule "services/javascript-file-import-engineering-services-section"]
+	path = services/javascript-file-import-engineering-services-section
 	url = https://github.com/red-cup-engineering/javascript-file-import-engineering-services-section.git
 	branch = main
